@@ -1,0 +1,36 @@
+body {
+ text-align: center;
+ height: 100vh;
+ background: linear-gradient(to bottom, white, darkblue);
+}
+
+div {
+border: solid 10px azure;
+border-radius: 20px;
+background-color: #CCE5FF;
+width: 300px;
+margin:20px ;
+
+}
+
+h1, p  {
+font-family: Courier New;
+color: white;
+}
+
+button {
+border: solid 10px azure;
+margin: 10px;
+background-color: #CCE5FF ;
+font-family: Cursive;
+color: white;
+
+}
+
+input {
+color: black;
+font-family: cursive;
+border: solid azure;
+border-radius: 10px;
+width: 200px;
+}
